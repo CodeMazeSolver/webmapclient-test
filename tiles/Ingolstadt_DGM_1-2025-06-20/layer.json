@@ -1,0 +1,566 @@
+{
+    "tilejson": "2.1.0",
+    "qmc-version": "5.1.5_QMC_virtualcitySYSTEMS_GmbH",
+    "version": "1.1750436106015328",
+    "format": "quantized-mesh-1.0",
+    "scheme": "tms",
+    "extensions": [
+        "octvertexnormals"
+    ],
+    "tiles": [
+        "{z}/{x}/{y}.terrain?v={version}"
+    ],
+    "minzoom": 0,
+    "maxzoom": 18,
+    "bbox": [
+        11.24176025390625,
+        48.680419921875,
+        11.507492065429688,
+        48.830108642578128
+    ],
+    "bounds": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "projection": "EPSG:4326",
+    "available": [
+        [
+            {
+                "endY": 0,
+                "endX": 1,
+                "startX": 0,
+                "startY": 0
+            }
+        ],
+        [
+            {
+                "endY": 1,
+                "endX": 2,
+                "startX": 2,
+                "startY": 1
+            }
+        ],
+        [
+            {
+                "endY": 3,
+                "endX": 4,
+                "startX": 4,
+                "startY": 3
+            }
+        ],
+        [
+            {
+                "endY": 6,
+                "endX": 8,
+                "startX": 8,
+                "startY": 6
+            }
+        ],
+        [
+            {
+                "endY": 12,
+                "endX": 17,
+                "startX": 17,
+                "startY": 12
+            }
+        ],
+        [
+            {
+                "endY": 24,
+                "endX": 34,
+                "startX": 34,
+                "startY": 24
+            }
+        ],
+        [
+            {
+                "endY": 49,
+                "endX": 68,
+                "startX": 68,
+                "startY": 49
+            }
+        ],
+        [
+            {
+                "endY": 98,
+                "endX": 136,
+                "startX": 136,
+                "startY": 98
+            }
+        ],
+        [
+            {
+                "endY": 197,
+                "endX": 272,
+                "startX": 272,
+                "startY": 197
+            }
+        ],
+        [
+            {
+                "endY": 394,
+                "endX": 544,
+                "startX": 543,
+                "startY": 394
+            }
+        ],
+        [
+            {
+                "endY": 789,
+                "endX": 1089,
+                "startX": 1087,
+                "startY": 788
+            }
+        ],
+        [
+            {
+                "endY": 1579,
+                "endX": 2178,
+                "startX": 2175,
+                "startY": 1577
+            }
+        ],
+        [
+            {
+                "endY": 3159,
+                "endX": 4357,
+                "startX": 4351,
+                "startY": 3155
+            }
+        ],
+        [
+            {
+                "endY": 6318,
+                "endX": 8715,
+                "startX": 8703,
+                "startY": 6311
+            }
+        ],
+        [
+            {
+                "endY": 12636,
+                "endX": 17430,
+                "startX": 17407,
+                "startY": 12623
+            },
+            {
+                "endY": 12636,
+                "endX": 17431,
+                "startX": 17431,
+                "startY": 12628
+            }
+        ],
+        [
+            {
+                "endY": 25272,
+                "endX": 34861,
+                "startX": 34815,
+                "startY": 25247
+            },
+            {
+                "endY": 25246,
+                "endX": 34861,
+                "startX": 34817,
+                "startY": 25246
+            },
+            {
+                "endY": 25272,
+                "endX": 34862,
+                "startX": 34862,
+                "startY": 25256
+            },
+            {
+                "endY": 25273,
+                "endX": 34827,
+                "startX": 34815,
+                "startY": 25273
+            },
+            {
+                "endY": 25257,
+                "endX": 34814,
+                "startX": 34814,
+                "startY": 25247
+            }
+        ],
+        [
+            {
+                "endY": 50544,
+                "endX": 69723,
+                "startX": 69631,
+                "startY": 50494
+            },
+            {
+                "endY": 50493,
+                "endX": 69723,
+                "startX": 69635,
+                "startY": 50493
+            },
+            {
+                "endY": 50545,
+                "endX": 69703,
+                "startX": 69631,
+                "startY": 50545
+            },
+            {
+                "endY": 50515,
+                "endX": 69630,
+                "startX": 69629,
+                "startY": 50494
+            },
+            {
+                "endY": 50492,
+                "endX": 69722,
+                "startX": 69684,
+                "startY": 50492
+            },
+            {
+                "endY": 50544,
+                "endX": 69724,
+                "startX": 69724,
+                "startY": 50513
+            },
+            {
+                "endY": 50546,
+                "endX": 69654,
+                "startX": 69631,
+                "startY": 50546
+            },
+            {
+                "endY": 50537,
+                "endX": 69630,
+                "startX": 69630,
+                "startY": 50516
+            },
+            {
+                "endY": 50544,
+                "endX": 69725,
+                "startX": 69725,
+                "startY": 50533
+            }
+        ],
+        [
+            {
+                "endY": 101089,
+                "endX": 139446,
+                "startX": 139262,
+                "startY": 100988
+            },
+            {
+                "endY": 100987,
+                "endX": 139446,
+                "startX": 139320,
+                "startY": 100986
+            },
+            {
+                "endY": 101091,
+                "endX": 139359,
+                "startX": 139262,
+                "startY": 101090
+            },
+            {
+                "endY": 101053,
+                "endX": 139261,
+                "startX": 139260,
+                "startY": 100988
+            },
+            {
+                "endY": 101089,
+                "endX": 139449,
+                "startX": 139447,
+                "startY": 101046
+            },
+            {
+                "endY": 100985,
+                "endX": 139445,
+                "startX": 139368,
+                "startY": 100985
+            },
+            {
+                "endY": 100987,
+                "endX": 139319,
+                "startX": 139269,
+                "startY": 100987
+            },
+            {
+                "endY": 101092,
+                "endX": 139310,
+                "startX": 139262,
+                "startY": 101092
+            },
+            {
+                "endY": 101090,
+                "endX": 139407,
+                "startX": 139360,
+                "startY": 101090
+            },
+            {
+                "endY": 101030,
+                "endX": 139259,
+                "startX": 139259,
+                "startY": 100988
+            },
+            {
+                "endY": 101045,
+                "endX": 139448,
+                "startX": 139447,
+                "startY": 101026
+            },
+            {
+                "endY": 100984,
+                "endX": 139445,
+                "startX": 139416,
+                "startY": 100984
+            },
+            {
+                "endY": 101089,
+                "endX": 139450,
+                "startX": 139450,
+                "startY": 101067
+            },
+            {
+                "endY": 101075,
+                "endX": 139261,
+                "startX": 139261,
+                "startY": 101054
+            },
+            {
+                "endY": 101008,
+                "endX": 139258,
+                "startX": 139258,
+                "startY": 100988
+            },
+            {
+                "endY": 101025,
+                "endX": 139447,
+                "startX": 139447,
+                "startY": 101006
+            },
+            {
+                "endY": 101089,
+                "endX": 139451,
+                "startX": 139451,
+                "startY": 101087
+            }
+        ],
+        [
+            {
+                "endY": 202178,
+                "endX": 278892,
+                "startX": 278525,
+                "startY": 201976
+            },
+            {
+                "endY": 201975,
+                "endX": 278891,
+                "startX": 278689,
+                "startY": 201972
+            },
+            {
+                "endY": 202182,
+                "endX": 278718,
+                "startX": 278525,
+                "startY": 202179
+            },
+            {
+                "endY": 202083,
+                "endX": 278524,
+                "startX": 278520,
+                "startY": 201976
+            },
+            {
+                "endY": 202178,
+                "endX": 278897,
+                "startX": 278893,
+                "startY": 202073
+            },
+            {
+                "endY": 201971,
+                "endX": 278891,
+                "startX": 278785,
+                "startY": 201970
+            },
+            {
+                "endY": 201975,
+                "endX": 278688,
+                "startX": 278590,
+                "startY": 201974
+            },
+            {
+                "endY": 202180,
+                "endX": 278814,
+                "startX": 278719,
+                "startY": 202179
+            },
+            {
+                "endY": 202184,
+                "endX": 278620,
+                "startX": 278525,
+                "startY": 202183
+            },
+            {
+                "endY": 202128,
+                "endX": 278524,
+                "startX": 278522,
+                "startY": 202084
+            },
+            {
+                "endY": 202178,
+                "endX": 278900,
+                "startX": 278898,
+                "startY": 202134
+            },
+            {
+                "endY": 202038,
+                "endX": 278519,
+                "startX": 278518,
+                "startY": 201976
+            },
+            {
+                "endY": 202072,
+                "endX": 278895,
+                "startX": 278893,
+                "startY": 202033
+            },
+            {
+                "endY": 201969,
+                "endX": 278891,
+                "startX": 278832,
+                "startY": 201969
+            },
+            {
+                "endY": 201975,
+                "endX": 278589,
+                "startX": 278539,
+                "startY": 201975
+            },
+            {
+                "endY": 202183,
+                "endX": 278670,
+                "startX": 278621,
+                "startY": 202183
+            },
+            {
+                "endY": 201973,
+                "endX": 278688,
+                "startX": 278640,
+                "startY": 201973
+            },
+            {
+                "endY": 201971,
+                "endX": 278784,
+                "startX": 278737,
+                "startY": 201971
+            },
+            {
+                "endY": 202181,
+                "endX": 278766,
+                "startX": 278719,
+                "startY": 202181
+            },
+            {
+                "endY": 202179,
+                "endX": 278860,
+                "startX": 278815,
+                "startY": 202179
+            },
+            {
+                "endY": 202185,
+                "endX": 278570,
+                "startX": 278525,
+                "startY": 202185
+            },
+            {
+                "endY": 202173,
+                "endX": 278524,
+                "startX": 278524,
+                "startY": 202129
+            },
+            {
+                "endY": 202133,
+                "endX": 278899,
+                "startX": 278898,
+                "startY": 202113
+            },
+            {
+                "endY": 202016,
+                "endX": 278517,
+                "startX": 278517,
+                "startY": 201976
+            },
+            {
+                "endY": 202032,
+                "endX": 278894,
+                "startX": 278893,
+                "startY": 202013
+            },
+            {
+                "endY": 202178,
+                "endX": 278901,
+                "startX": 278901,
+                "startY": 202154
+            },
+            {
+                "endY": 202061,
+                "endX": 278519,
+                "startX": 278519,
+                "startY": 202039
+            },
+            {
+                "endY": 202106,
+                "endX": 278521,
+                "startX": 278521,
+                "startY": 202084
+            },
+            {
+                "endY": 202150,
+                "endX": 278523,
+                "startX": 278523,
+                "startY": 202129
+            },
+            {
+                "endY": 202012,
+                "endX": 278893,
+                "startX": 278893,
+                "startY": 201993
+            },
+            {
+                "endY": 202072,
+                "endX": 278896,
+                "startX": 278896,
+                "startY": 202053
+            },
+            {
+                "endY": 202112,
+                "endX": 278898,
+                "startX": 278898,
+                "startY": 202093
+            },
+            {
+                "endY": 201993,
+                "endX": 278516,
+                "startX": 278516,
+                "startY": 201976
+            },
+            {
+                "endY": 201968,
+                "endX": 278891,
+                "startX": 278879,
+                "startY": 201968
+            },
+            {
+                "endY": 202178,
+                "endX": 278902,
+                "startX": 278902,
+                "startY": 202174
+            },
+            {
+                "endY": 201975,
+                "endX": 278892,
+                "startX": 278892,
+                "startY": 201973
+            }
+        ]
+    ]
+}
