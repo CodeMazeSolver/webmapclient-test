@@ -1,0 +1,73 @@
+{
+  "boundingVolume": {
+    "region": [
+      0.202386489,
+      0.840235575,
+      0.202491265,
+      0.840335024,
+      505.9,
+      546.6
+    ]
+  },
+  "geometricError": 0.0,
+  "content": {
+    "uri": "15/34879/7619.b3dm"
+  },
+  "properties": {
+    "DatenquelleDachhoehe": {
+      "valueType": "STRING"
+    },
+    "Gemeindeschluessel": {
+      "valueType": "STRING"
+    },
+    "HoeheDach": {
+      "valueType": "STRING"
+    },
+    "DatenquelleLage": {
+      "valueType": "STRING"
+    },
+    "Address": {
+      "valueType": "SIMPLEADDRESS"
+    },
+    "DatenquelleBodenhoehe": {
+      "valueType": "STRING"
+    },
+    "roofType": {
+      "valueType": "STRING"
+    },
+    "storeysAboveGround": {
+      "valueType": "INTEGER",
+      "minimum": 1,
+      "maximum": 6
+    },
+    "Methode": {
+      "valueType": "STRING"
+    },
+    "creationDate": {
+      "valueType": "STRING"
+    },
+    "HoeheGrund": {
+      "valueType": "STRING"
+    },
+    "externalReference externalObjectName": {
+      "valueType": "STRING"
+    },
+    "Grundrissaktualitaet": {
+      "valueType": "STRING"
+    },
+    "measuredHeight": {
+      "valueType": "DOUBLE",
+      "minimum": 0.212,
+      "maximum": 24.091
+    },
+    "function": {
+      "valueType": "STRING"
+    },
+    "NiedrigsteTraufeDesGebaeudes": {
+      "valueType": "STRING"
+    },
+    "Geometrietyp2DReferenz": {
+      "valueType": "STRING"
+    }
+  }
+}

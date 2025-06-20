@@ -1,0 +1,308 @@
+{
+    "tilejson": "2.1.0",
+    "qmc-version": "5.1.5_QMC_virtualcitySYSTEMS_GmbH",
+    "version": "1.1739360552406713",
+    "format": "quantized-mesh-1.0",
+    "scheme": "tms",
+    "extensions": [
+        "octvertexnormals"
+    ],
+    "tiles": [
+        "{z}/{x}/{y}.terrain?v={version}"
+    ],
+    "minzoom": 0,
+    "maxzoom": 18,
+    "bbox": [
+        11.526718139648438,
+        48.12904357910156,
+        11.60980224609375,
+        48.16749572753906
+    ],
+    "bounds": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "projection": "EPSG:4326",
+    "available": [
+        [
+            {
+                "endY": 0,
+                "endX": 1,
+                "startX": 0,
+                "startY": 0
+            }
+        ],
+        [
+            {
+                "endY": 1,
+                "endX": 2,
+                "startX": 2,
+                "startY": 1
+            }
+        ],
+        [
+            {
+                "endY": 3,
+                "endX": 4,
+                "startX": 4,
+                "startY": 3
+            }
+        ],
+        [
+            {
+                "endY": 6,
+                "endX": 8,
+                "startX": 8,
+                "startY": 6
+            }
+        ],
+        [
+            {
+                "endY": 12,
+                "endX": 17,
+                "startX": 17,
+                "startY": 12
+            }
+        ],
+        [
+            {
+                "endY": 24,
+                "endX": 34,
+                "startX": 34,
+                "startY": 24
+            }
+        ],
+        [
+            {
+                "endY": 49,
+                "endX": 68,
+                "startX": 68,
+                "startY": 49
+            }
+        ],
+        [
+            {
+                "endY": 98,
+                "endX": 136,
+                "startX": 136,
+                "startY": 98
+            }
+        ],
+        [
+            {
+                "endY": 196,
+                "endX": 272,
+                "startX": 272,
+                "startY": 196
+            }
+        ],
+        [
+            {
+                "endY": 392,
+                "endX": 545,
+                "startX": 544,
+                "startY": 392
+            },
+            {
+                "endY": 393,
+                "endX": 544,
+                "startX": 544,
+                "startY": 393
+            }
+        ],
+        [
+            {
+                "endY": 786,
+                "endX": 1090,
+                "startX": 1089,
+                "startY": 785
+            }
+        ],
+        [
+            {
+                "endY": 1572,
+                "endX": 2180,
+                "startX": 2179,
+                "startY": 1571
+            }
+        ],
+        [
+            {
+                "endY": 3144,
+                "endX": 4360,
+                "startX": 4358,
+                "startY": 3143
+            }
+        ],
+        [
+            {
+                "endY": 6288,
+                "endX": 8720,
+                "startX": 8716,
+                "startY": 6286
+            }
+        ],
+        [
+            {
+                "endY": 12576,
+                "endX": 17440,
+                "startX": 17434,
+                "startY": 12572
+            },
+            {
+                "endY": 12576,
+                "endX": 17433,
+                "startX": 17433,
+                "startY": 12573
+            }
+        ],
+        [
+            {
+                "endY": 25152,
+                "endX": 34881,
+                "startX": 34866,
+                "startY": 25146
+            },
+            {
+                "endY": 25145,
+                "endX": 34881,
+                "startX": 34869,
+                "startY": 25145
+            }
+        ],
+        [
+            {
+                "endY": 50304,
+                "endX": 69762,
+                "startX": 69733,
+                "startY": 50292
+            },
+            {
+                "endY": 50291,
+                "endX": 69762,
+                "startX": 69738,
+                "startY": 50291
+            },
+            {
+                "endY": 50305,
+                "endX": 69743,
+                "startX": 69733,
+                "startY": 50305
+            },
+            {
+                "endY": 50296,
+                "endX": 69732,
+                "startX": 69732,
+                "startY": 50292
+            }
+        ],
+        [
+            {
+                "endY": 100609,
+                "endX": 139524,
+                "startX": 139466,
+                "startY": 100584
+            },
+            {
+                "endY": 100583,
+                "endX": 139524,
+                "startX": 139477,
+                "startY": 100583
+            },
+            {
+                "endY": 100610,
+                "endX": 139486,
+                "startX": 139466,
+                "startY": 100610
+            },
+            {
+                "endY": 100609,
+                "endX": 139525,
+                "startX": 139525,
+                "startY": 100598
+            },
+            {
+                "endY": 100593,
+                "endX": 139465,
+                "startX": 139465,
+                "startY": 100584
+            },
+            {
+                "endY": 100582,
+                "endX": 139524,
+                "startX": 139522,
+                "startY": 100582
+            }
+        ],
+        [
+            {
+                "endY": 201218,
+                "endX": 279048,
+                "startX": 278933,
+                "startY": 201168
+            },
+            {
+                "endY": 201167,
+                "endX": 279048,
+                "startX": 279000,
+                "startY": 201166
+            },
+            {
+                "endY": 201219,
+                "endX": 279017,
+                "startX": 278933,
+                "startY": 201219
+            },
+            {
+                "endY": 201167,
+                "endX": 278999,
+                "startX": 278955,
+                "startY": 201167
+            },
+            {
+                "endY": 201218,
+                "endX": 279050,
+                "startX": 279049,
+                "startY": 201197
+            },
+            {
+                "endY": 201220,
+                "endX": 278973,
+                "startX": 278933,
+                "startY": 201220
+            },
+            {
+                "endY": 201187,
+                "endX": 278932,
+                "startX": 278931,
+                "startY": 201168
+            },
+            {
+                "endY": 201196,
+                "endX": 279049,
+                "startX": 279049,
+                "startY": 201177
+            },
+            {
+                "endY": 201207,
+                "endX": 278932,
+                "startX": 278932,
+                "startY": 201188
+            },
+            {
+                "endY": 201165,
+                "endX": 279048,
+                "startX": 279044,
+                "startY": 201165
+            },
+            {
+                "endY": 201218,
+                "endX": 279051,
+                "startX": 279051,
+                "startY": 201217
+            }
+        ]
+    ]
+}
