@@ -1,1 +1,5 @@
 # webmapclient-test
+
+## Scene Links to test the webmapclient
+
+[DGM + Buildings](https://codemazesolver.github.io/webmapclient-test/?t=3DCityDB-Web-Map-Client&s=false&ts=0&la=48.139026&lo=11.582897&h=760.101&hd=329.62&p=-27.02&r=0&l_0=u%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252FCodeMazeSolver%252Fwebmapclient-test%252Frefs%252Fheads%252Fmain%252Ftiles%252FMunich_Test_Area_Tiles%252Ftileset.json%26n%3DBuilding%2520Test%26ld%3DCesium%25203D%2520Tiles%26lp%3D%26lc%3D%26gv%3D%26a%3Dtrue%26tdu%3D%26ds%3DGoogleSheets%26tt%3DHorizontal%26gc%3D%26il%3D%26al%3D%26ac%3D%26av%3D%26msse%3D16&tr=name%3DTerrain%2520DTM1%26iconUrl%3D%26tooltip%3D%26url%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252FCodeMazeSolver%252Fwebmapclient-test%252Frefs%252Fheads%252Fmain%252Ftiles%252FMunich_Test_Area_DGM1&sw=showOnStart%3Dfalse)
